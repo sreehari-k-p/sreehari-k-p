@@ -15,11 +15,10 @@
 ---
 
 - # 👨‍💻Hi&nbsp;<a href="Hey"><img src="https://github.com/Ajay-o-s/Ajay-o-s/blob/main/Hi.gif?raw=true" width="48px"></a> I'm [sreehari-k-p](https://github.com/sreehari-k-p),
-- 👨‍💻 I'm from Kerala🙌💖.
-- 👨‍💻 Currently, I'm doing diploma in computer engineering at GPTC Perumbavoor, Kerala😜. 
-- 👨‍💻 I love coding 😍😉
-- 👨‍💻 I'm working as an Open Source Software Developer.😁 
-- 👨‍💻 All of my projects are available at **[repositories](https://github.com/sreehari-k-p?tab=repositories)**
+- 👨‍💻 I'm from Kerala
+- 👨‍💻 Currently, I'm doing diploma in computer engineering at GPTC Perumbavoor, Kerala 
+- 👨‍💻 I love coding 
+- 👨‍💻 I'm working as an Open Source Software Developer
 - 👨‍💻 🆓 Don't Forget To **[Follow Me](https://github.com/sreehari-k-p)**
 
 ---
